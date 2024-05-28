@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+h1{
+  text-decoration: underline;
+}
+
+input {
+  margin: 20px;
+  padding: 20px;
+  width: 80%;
+  font-size: large;
+}
+
+.beer-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
